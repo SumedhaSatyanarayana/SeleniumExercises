@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70336" started-at="2017-11-26T10:36:08Z" finished-at="2017-11-26T10:37:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70336" started-at="2017-11-26T10:36:08Z" finished-at="2017-11-26T10:37:19Z">
+      <class name="com.thpTravels.TestCases.VerifyLoginToPHP">
+        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.thpTravels.TestCases.VerifyLoginToPHP@4f933fd1]" name="checkValidUser" duration-ms="70209" started-at="2017-11-26T16:06:09Z" finished-at="2017-11-26T16:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValidUser -->
+      </class> <!-- com.thpTravels.TestCases.VerifyLoginToPHP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
